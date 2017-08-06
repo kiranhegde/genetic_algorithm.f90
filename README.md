@@ -9,6 +9,6 @@ To run this script, you will need to download the file and then compile it using
 * gfortran
 * nagfor
 
-# Jupyter Notebook
+## Jupyter Notebook
 
 I will consider adding a Jupyter Notebook that uses the Coarray-Fortran kernel, to better illustrate how the Fortran script works.
