@@ -8,3 +8,7 @@ It is recommended to take a brief look at the .f90 code, and to observe the .pdf
 To run this script, you will need to download the file and then compile it using a Fortran compiler, such as:
 * gfortran
 * nagfor
+
+# Jupyter Notebook
+
+I will consider adding a Jupyter Notebook that uses the Coarray-Fortran kernel, to better illustrate how the Fortran script works.
